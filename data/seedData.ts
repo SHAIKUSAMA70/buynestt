@@ -247,6 +247,206 @@ export const products: Product[] = [
     category: 'Home & Kitchen',
     description: 'Professional-grade knife set with 8 pieces including chef knife, paring knife, and knife block.'
   }
+  {
+    id: '23',
+    name: 'Commercial Rice Cooker 10L',
+    price: 8999,
+    image: 'https://images.pexels.com/photos/6419121/pexels-photo-6419121.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'KitchenPro Wholesale',
+    stock: 45,
+    category: 'Cooking Essentials',
+    description: 'Large capacity commercial rice cooker perfect for restaurants and catering businesses.'
+  },
+  {
+    id: '24',
+    name: 'Stainless Steel Mixing Bowls Set',
+    price: 1899,
+    image: 'https://images.pexels.com/photos/4226796/pexels-photo-4226796.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'KitchenPro Wholesale',
+    stock: 200,
+    category: 'Cooking Essentials',
+    description: 'Set of 6 stainless steel mixing bowls in various sizes for professional kitchen use.'
+  },
+  {
+    id: '25',
+    name: 'Industrial Blender 2HP',
+    price: 15999,
+    image: 'https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'KitchenPro Wholesale',
+    stock: 30,
+    category: 'Cooking Essentials',
+    description: 'Heavy-duty commercial blender with 2HP motor for smoothies, soups, and food processing.'
+  },
+  {
+    id: '26',
+    name: 'Non-Stick Cookware Set 12pc',
+    price: 4599,
+    image: 'https://images.pexels.com/photos/4226769/pexels-photo-4226769.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'KitchenPro Wholesale',
+    stock: 85,
+    category: 'Cooking Essentials',
+    description: 'Professional non-stick cookware set with pans, pots, and lids for commercial kitchens.'
+  },
+  {
+    id: '27',
+    name: 'Digital Kitchen Scale 10kg',
+    price: 2299,
+    image: 'https://images.pexels.com/photos/6419120/pexels-photo-6419120.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'KitchenPro Wholesale',
+    stock: 120,
+    category: 'Cooking Essentials',
+    description: 'Precision digital kitchen scale with 10kg capacity for accurate ingredient measurement.'
+  },
+  {
+    id: '28',
+    name: 'A4 Copy Paper 500 Sheets',
+    price: 299,
+    image: 'https://images.pexels.com/photos/6373478/pexels-photo-6373478.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'OfficeSupply Direct',
+    stock: 500,
+    category: 'Stationery',
+    description: 'High-quality A4 copy paper, 80GSM, perfect for printing and photocopying needs.'
+  },
+  {
+    id: '29',
+    name: 'Ballpoint Pen Set 50pcs',
+    price: 599,
+    image: 'https://images.pexels.com/photos/159751/book-address-book-learning-learn-159751.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'OfficeSupply Direct',
+    stock: 300,
+    category: 'Stationery',
+    description: 'Bulk pack of 50 blue ballpoint pens for office and retail distribution.'
+  },
+  {
+    id: '30',
+    name: 'Spiral Notebooks A5 Pack of 10',
+    price: 899,
+    image: 'https://images.pexels.com/photos/1925536/pexels-photo-1925536.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'OfficeSupply Direct',
+    stock: 250,
+    category: 'Stationery',
+    description: 'Pack of 10 A5 spiral notebooks with 200 pages each, ideal for students and professionals.'
+  },
+  {
+    id: '31',
+    name: 'Desk Organizer with Drawers',
+    price: 1599,
+    image: 'https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'OfficeSupply Direct',
+    stock: 150,
+    category: 'Stationery',
+    description: 'Multi-compartment desk organizer with drawers for pens, papers, and office supplies.'
+  },
+  {
+    id: '32',
+    name: 'Whiteboard Markers Set 12pcs',
+    price: 799,
+    image: 'https://images.pexels.com/photos/8197543/pexels-photo-8197543.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'OfficeSupply Direct',
+    stock: 180,
+    category: 'Stationery',
+    description: 'Set of 12 whiteboard markers in assorted colors with fine tip for clear writing.'
+  },
+  {
+    id: '33',
+    name: 'File Folders Pack of 25',
+    price: 449,
+    image: 'https://images.pexels.com/photos/6373478/pexels-photo-6373478.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'OfficeSupply Direct',
+    stock: 400,
+    category: 'Stationery',
+    description: 'Manila file folders for document organization, pack of 25 folders.'
+  },
+  {
+    id: '34',
+    name: 'Cleaning Supplies Starter Kit',
+    price: 2999,
+    image: 'https://images.pexels.com/photos/4239091/pexels-photo-4239091.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'CleanPro Distributors',
+    stock: 100,
+    category: 'Cleaning Supplies',
+    description: 'Complete cleaning kit with detergents, disinfectants, and cleaning tools for businesses.'
+  },
+  {
+    id: '35',
+    name: 'Industrial Vacuum Cleaner',
+    price: 12999,
+    image: 'https://images.pexels.com/photos/4239013/pexels-photo-4239013.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'CleanPro Distributors',
+    stock: 25,
+    category: 'Cleaning Supplies',
+    description: 'Heavy-duty industrial vacuum cleaner for commercial spaces and warehouses.'
+  },
+  {
+    id: '36',
+    name: 'Disposable Gloves Box 100pcs',
+    price: 899,
+    image: 'https://images.pexels.com/photos/4239119/pexels-photo-4239119.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'SafetyFirst Supplies',
+    stock: 300,
+    category: 'Safety Equipment',
+    description: 'Box of 100 disposable nitrile gloves for food service and healthcare industries.'
+  },
+  {
+    id: '37',
+    name: 'Safety Helmets Pack of 10',
+    price: 2499,
+    image: 'https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'SafetyFirst Supplies',
+    stock: 80,
+    category: 'Safety Equipment',
+    description: 'Pack of 10 industrial safety helmets meeting safety standards for construction sites.'
+  },
+  {
+    id: '38',
+    name: 'First Aid Kit Complete',
+    price: 1899,
+    image: 'https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'SafetyFirst Supplies',
+    stock: 150,
+    category: 'Safety Equipment',
+    description: 'Comprehensive first aid kit with bandages, antiseptics, and emergency supplies.'
+  },
+  {
+    id: '39',
+    name: 'LED Flood Light 100W',
+    price: 3499,
+    image: 'https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'ElectroTech Solutions',
+    stock: 90,
+    category: 'Electrical Equipment',
+    description: 'High-efficiency LED flood light for outdoor and industrial lighting applications.'
+  },
+  {
+    id: '40',
+    name: 'Extension Cord 25 Meter',
+    price: 1299,
+    image: 'https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'ElectroTech Solutions',
+    stock: 200,
+    category: 'Electrical Equipment',
+    description: 'Heavy-duty 25-meter extension cord with multiple outlets for industrial use.'
+  },
+  {
+    id: '41',
+    name: 'Packaging Tape Rolls 36pcs',
+    price: 1199,
+    image: 'https://images.pexels.com/photos/4226796/pexels-photo-4226796.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'PackagePro Supplies',
+    stock: 250,
+    category: 'Packaging Materials',
+    description: 'Bulk pack of 36 clear packaging tape rolls for shipping and storage needs.'
+  },
+  {
+    id: '42',
+    name: 'Cardboard Boxes Assorted 50pcs',
+    price: 2199,
+    image: 'https://images.pexels.com/photos/4226796/pexels-photo-4226796.jpeg?auto=compress&cs=tinysrgb&w=500',
+    seller: 'PackagePro Supplies',
+    stock: 180,
+    category: 'Packaging Materials',
+    description: 'Assorted sizes cardboard boxes pack of 50 for shipping and storage purposes.'
+  }
 ];
 
 export const orders: Order[] = [
@@ -315,5 +515,41 @@ export const retailers: Retailer[] = [
     name: 'GlobalBrew Traders',
     email: 'orders@globalbrew.com',
     location: 'Delhi, NCR'
+  },
+  {
+    id: '4',
+    name: 'KitchenPro Wholesale',
+    email: 'sales@kitchenpro.com',
+    location: 'Chennai, Tamil Nadu'
+  },
+  {
+    id: '5',
+    name: 'OfficeSupply Direct',
+    email: 'orders@officesupply.com',
+    location: 'Pune, Maharashtra'
+  },
+  {
+    id: '6',
+    name: 'CleanPro Distributors',
+    email: 'info@cleanpro.com',
+    location: 'Hyderabad, Telangana'
+  },
+  {
+    id: '7',
+    name: 'SafetyFirst Supplies',
+    email: 'safety@safetyfirst.com',
+    location: 'Kolkata, West Bengal'
+  },
+  {
+    id: '8',
+    name: 'ElectroTech Solutions',
+    email: 'tech@electrotech.com',
+    location: 'Ahmedabad, Gujarat'
+  },
+  {
+    id: '9',
+    name: 'PackagePro Supplies',
+    email: 'pack@packagepro.com',
+    location: 'Jaipur, Rajasthan'
   }
 ];

@@ -14,7 +14,7 @@ import {
   AdjustmentsHorizontalIcon 
 } from '@heroicons/react/24/outline';
 
-const categories = ['All', 'Electronics', 'Fashion', 'Food & Beverage', 'Home & Kitchen', 'Health & Wellness', 'Sports & Outdoors', 'Beauty', 'Business', 'Home & Office', 'Home & Garden', 'Automotive'];
+const categories = ['All', 'Electronics', 'Fashion', 'Food & Beverage', 'Home & Kitchen', 'Health & Wellness', 'Sports & Outdoors', 'Beauty', 'Business', 'Home & Office', 'Home & Garden', 'Automotive', 'Cooking Essentials', 'Stationery', 'Cleaning Supplies', 'Safety Equipment', 'Electrical Equipment', 'Packaging Materials'];
 const sortOptions = [
   { value: 'name', label: 'Name A-Z' },
   { value: 'price-low', label: 'Price: Low to High' },
